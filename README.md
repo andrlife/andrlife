@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @andrlife
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-skype andrey38421
-<!---
-andrlife/andrlife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hello, my name is Andrey.
+I am interested in front-end development, as well as the JavaScript programming language.
+I am now studying and practicing JavaScript development, I was very interested in this programming language.
+I can be contacted via Discord andrlife#9524
