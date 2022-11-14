@@ -1,4 +1,5 @@
-- Hello, my name is Andrey.
-I am interested in front-end development, as well as the JavaScript programming language.
-I am now studying and practicing JavaScript development, I was very interested in this programming language.
-I can be contacted via Discord andrlife#9524
+
+Hello, my name is Andrey.
+I'm interested in front-end development.
+I am now studying and practicing development.
+ You can contact me via Telegram https://t.me/Fastdow
